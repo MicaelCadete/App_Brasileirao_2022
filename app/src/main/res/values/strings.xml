@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Brasileirão 2022</string>
+    <string name="strDireitosAutorais">Criado e desenvolvido por Micael Cadete</string>
+    <string name="strEquipes">Equipes</string>
+    <string name="strTecnicos">Técnicos</string>
+    <string name="strTabela">Tabela</string>
+    <string name="strVoltar">Voltar</string>
+    <string name="strTecnicosTitulo">Técnicos</string>
+    <string name="strTecnicosDescricao">
+        \tQuando uma equipe começa a desandar no campeonato, a culpa cai logo em cima do treinador,
+        por isso que a escolha do técnico é tão importante para uma equipe.
+
+        \n\n\tVamos ver quem são os <b>treinadores</b> que estão a frente de
+        cada time do Brasileirão 2022!</string>
+    <string name="strTecAmerica">América Mineiro- Marquinhos Santos</string>
+    <string name="strTecFuracao">Athletico Paranaense - Alberto Valentin</string>
+    <string name="strTecAtleticoGo">Atlético Goianiense - Marcelo Cabo</string>
+    <string name="strTecGalo">Atlético Mineiro - Antonio Mohamed</string>
+    <string name="strTecAvai">Avaí - Clauidinei Oliveira</string>
+    <string name="strTecBotafogo">Enderson Moreira</string>
+    <string name="strTecBragantino">RB Bragantino - Maurício Barbieri</string>
+    <string name="strTecCeara">Ceará - Tiago Nunes</string>
+    <string name="strTecSccp">Corinthians - Indefinido!</string>
+    <string name="strTecCoritiba">Coritiba - Gustavo Moríngo</string>
+    <string name="strTecCuiaba">Cuiabá - Pintado</string>
+    <string name="strTecInter">Internacional - Alexander Medina</string>
+    <string name="strTecFlamengo">"Flamengo - Paulo Souza "</string>
+    <string name="strTecFlu">Fluminense - Abel Braga</string>
+    <string name="strTecFortaleza">Fortaleza - Juan Pablo Vojvoda</string>
+    <string name="strTecGoias">Goiás - Glauber Ramos</string>
+    <string name="strTecJuventude">Juventude - Jair Ventura</string>
+    <string name="strTecPalmeiras">Palmeiras - Abel Ferreira</string>
+    <string name="strTecSantos">Santos - Fábio Carille</string>
+    <string name="strTecSpfc">São Paulo - Rogério Ceni</string>
+    <string name="strEquipesTitulo">Equipes do Brasileirão 2022</string>
+</resources>
